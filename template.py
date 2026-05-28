@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 
-project_name="e2e-mlproject"
+project_name="mlproject"
 
 list_of_files=[
 
